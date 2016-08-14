@@ -71,8 +71,8 @@ else
   
   let s:pink       = "212"
   let s:green      = "84"
-  let s:aqua       = "81"
-  let s:yellow     = "220"
+  let s:aqua       = "117"
+  let s:yellow     = "228"
   let s:orange     = "215"
   let s:purple     = "141"
   let s:red        = "231"
